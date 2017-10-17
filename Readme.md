@@ -10,7 +10,7 @@
 | Sublime Text 3 | Build 3150 | 
 
 ## Steps to reproduce
-1. Clone repository `git clone https://github.com/flex87/sublime-gulp-kill-watch-task-problem`
+1. Clone repository `git clone https://github.com/flex87/sublime-gulp-kill-watch-task-problem.git`
 2. Restore packages: `npm install`
 3. Open sublime project and press `Ctrl+Shift+P` to run the `Gulp` command. Then select the `default` task and press `Enter`.
 4. Modify `watch.js` and save.
