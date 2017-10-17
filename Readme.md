@@ -1,5 +1,7 @@
 # Killing watch task not working on Windows 10
 
+Sample project to reproduce the issue described here: [Issue 89](https://github.com/NicoSantangelo/sublime-gulp/issues/89)
+
 ## System
 
 | Component | Version |
